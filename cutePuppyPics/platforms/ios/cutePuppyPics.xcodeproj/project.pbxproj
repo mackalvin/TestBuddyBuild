@@ -232,7 +232,7 @@
 				LastUpgradeCheck = 510;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = GUA32FJ35E;
+						DevelopmentTeam = 56F43K867Q;
 					};
 				};
 			};
@@ -339,7 +339,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = GUA32FJ35E;
+				DEVELOPMENT_TEAM = 56F43K867Q;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -348,6 +348,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "cutePuppyPics/cutePuppyPics-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kpit.mobility.ISI;
 				PRODUCT_NAME = cutePuppyPics;
 			};
 			name = Debug;
@@ -362,12 +363,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = GUA32FJ35E;
+				DEVELOPMENT_TEAM = 56F43K867Q;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "cutePuppyPics/cutePuppyPics-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "cutePuppyPics/cutePuppyPics-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kpit.mobility.ISI;
 				PRODUCT_NAME = cutePuppyPics;
 			};
 			name = Release;
